@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+
+*__pycache__/
+*_jit_compiled
+
+data
+*results
+*results_classifier

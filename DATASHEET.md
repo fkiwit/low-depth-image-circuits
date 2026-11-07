@@ -112,7 +112,7 @@ Using these splits makes results comparable to classical results reported on the
 
 **How will the dataset be distributed?** Via PennyLane Datasets at https://pennylane.ai/datasets/collection/low-depth-image-circuits as four datasets, `low-depth-mnist`, `low-depth-fashion-mnist`, `low-depth-cifar-10`, and `low-depth-imagenette`, each loadable with `qml.data.load`. The metadata of the four entries is maintained in the repository https://github.com/XanaduAI/pennylane-datasets under `content/other/low-depth-image-circuits/`.
 
-The dataset has no DOI of its own. It is identified and cited through the DOI of the accompanying paper, doi:10.1088/2058-9565/ae0123, which also names the PennyLane location of the data.
+The dataset has no DOI of its own. It is identified and cited through the DOI of the accompanying paper, doi:10.1088/2058-9565/ae0123, which also names the PennyLane location of the data. The code that produced the dataset is archived on Zenodo, doi:10.5281/zenodo.24039339 (all versions).
 
 **When will the dataset be distributed?** Low-Depth MNIST was released on 19 March 2025 and the other three datasets on 23 April 2025, all as version 0.1 (initial public release). The metadata was last modified on 23 April 2026.
 

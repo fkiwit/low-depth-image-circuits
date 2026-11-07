@@ -1,5 +1,7 @@
 # Typical Machine Learning Datasets as Low-Depth Quantum Circuits
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24039339.svg)](https://doi.org/10.5281/zenodo.24039339)
+
 This project provides a comprehensive toolset for representing image datasets as quantum circuits, optimizing them, and evaluating the impact of this optimization on classification tasks. The workflow is divided into three main stages: data preparation, quantum circuit optimization, and classification. The `plots` directory contains scripts and notebooks to visualize the results of these stages.
 
 ## Getting Started
@@ -137,6 +139,8 @@ If you use this project in your research, please cite the following paper:
 }
 
 ```
+The code is archived on Zenodo: [doi:10.5281/zenodo.24039339](https://doi.org/10.5281/zenodo.24039339).
+
 The paper is available at: [https://iopscience.iop.org/article/10.1088/2058-9565/ae0123](https://iopscience.iop.org/article/10.1088/2058-9565/ae0123)
 
 ## License

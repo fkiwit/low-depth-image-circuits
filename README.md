@@ -122,6 +122,8 @@ cd classifier
 ## Pennylane Datasets
 The datasets are also available on Pennylane Datasets: [https://pennylane.ai/datasets/collection/low-depth-image-circuits](https://pennylane.ai/datasets/collection/low-depth-image-circuits)
 
+The datasets are documented in [DATASHEET.md](DATASHEET.md), following *Datasheets for Datasets* (Gebru et al., 2021).
+
 ## Citation
 If you use this project in your research, please cite the following paper:
 ```
@@ -136,3 +138,6 @@ If you use this project in your research, please cite the following paper:
 
 ```
 The paper is available at: [https://iopscience.iop.org/article/10.1088/2058-9565/ae0123](https://iopscience.iop.org/article/10.1088/2058-9565/ae0123)
+
+## License
+The code in this repository is licensed under the [Apache License 2.0](LICENSE). The datasets on PennyLane Datasets are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); the terms of the source datasets apply in addition, see [DATASHEET.md](DATASHEET.md).

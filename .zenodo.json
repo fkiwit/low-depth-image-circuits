@@ -1,0 +1,56 @@
+{
+  "title": "Low-Depth Image Circuits: code for Typical Machine Learning Datasets as Low-Depth Quantum Circuits",
+  "upload_type": "software",
+  "description": "<p>Code for representing image datasets as low-depth quantum circuits, optimizing these circuits, and benchmarking quantum classifiers on them, as described in F. J. Kiwit, B. Jobst, A. Luckow, F. Pollmann, and C. A. Riofrío, <em>Typical Machine Learning Datasets as Low-Depth Quantum Circuits</em>, Quantum Science and Technology 10, 045035 (2025), doi:10.1088/2058-9565/ae0123.</p><p>The optimized circuits for the MNIST, Fashion-MNIST, CIFAR-10, and Imagenette datasets produced with this code are available via PennyLane Datasets at https://pennylane.ai/datasets/collection/low-depth-image-circuits and are documented in DATASHEET.md.</p>",
+  "creators": [
+    {
+      "name": "Kiwit, Florian J.",
+      "affiliation": "Ludwig Maximilian University Munich; BMW Group"
+    },
+    {
+      "name": "Jobst, Bernhard",
+      "affiliation": "Technical University of Munich; Munich Center for Quantum Science and Technology"
+    },
+    {
+      "name": "Luckow, Andre",
+      "affiliation": "Ludwig Maximilian University Munich; BMW Group"
+    },
+    {
+      "name": "Pollmann, Frank",
+      "affiliation": "Technical University of Munich; Munich Center for Quantum Science and Technology"
+    },
+    {
+      "name": "Riofrío, Carlos A.",
+      "affiliation": "BMW Group"
+    }
+  ],
+  "license": "apache-2.0",
+  "keywords": [
+    "quantum machine learning",
+    "quantum state preparation",
+    "data encoding",
+    "matrix product states",
+    "image classification",
+    "benchmark datasets"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1088/2058-9565/ae0123",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "arXiv:2505.03399",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "https://pennylane.ai/datasets/collection/low-depth-image-circuits",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
